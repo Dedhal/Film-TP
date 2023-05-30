@@ -1,0 +1,47 @@
+.usercard {
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    padding: 100px;
+}
+
+.blue_card {
+    background-color: #538397;
+    padding: 3px;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    width: 12%;
+    text-align: center;
+    height: auto;
+    #display: flex;
+    #flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 10px #538397;
+}
+
+.white_card {
+    background-color: whitesmoke;
+    padding: 3px;
+    color: #538397;
+    border-radius: 5px;
+    margin: 5px;
+    width: 12%;
+    text-align: center;
+    height: auto;
+    #display: flex;
+    #flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 10px #538397;
+}
+
+ul {
+    display:flex;
+}

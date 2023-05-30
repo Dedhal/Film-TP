@@ -1,0 +1,2 @@
+C:\Users\joris.monteillet\source\repos\reactproject4\obj\Debug\reactproject4.esproj.SuggestedBindingRedirects.cache
+C:\Users\joris.monteillet\source\repos\reactproject4\obj\Debug\reactproject4.esproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+.banniere {
+    background-color: white;
+    padding: 3px;
+    color: #538397;
+    border-bottom: solid 1px #538397;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
